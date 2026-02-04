@@ -87,4 +87,22 @@
   <li><a href="https://github.com/ktoxz/archievement/blob/main/Da%20Nang%20Code%20League%202024%20-%20Certificate.pdf" target="_blank">Da Nang Code League 2024</a></li>
   
 </ul>
-<h1>Consider checking on my brand new website on free resourcepack hosting, I made this for minecraft community <a href="https://minecrox.ktoxz.id.vn/"</a></h1>
+###
+
+<h2 align="center">🌐 My Projects</h2>
+
+###
+
+<div align="center">
+
+  <a href="https://minecrox.ktoxz.id.vn" target="_blank">
+    <img src="https://img.shields.io/badge/MineCrox-Free%20Minecraft%20Resourcepack%20Hosting-22c55e?style=for-the-badge&logo=minecraft&logoColor=white" />
+  </a>
+
+  <br><br>
+
+  <b>MineCrox</b> is a free resourcepack & file hosting platform built for the Minecraft community.  
+  Upload, share, and distribute Minecraft assets easily and fast 🚀
+
+</div>
+
